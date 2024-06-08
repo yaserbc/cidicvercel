@@ -32,6 +32,9 @@ export default function Home() {
       <div>
        <p>
      <br/> ANSWER 1:
+     <br/> ANSWER 1:
+     <br/> ANSWER 1:
+     <br/> ANSWER 1:
      </p>
      </div>
     </main>
