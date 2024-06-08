@@ -60,7 +60,9 @@ export default function Home() {
      <br/> ANSWER 5:
      <br/> ANSWER 6:
      <br/> ANSWER 7:Hi. If you are utilizing a web server such as Apache or Nginx you can accomplish redirects by integrating a redirect directive into the configuration file. For instance within Apache .htaccess file you can implement the following rule. ewriteEngine On RewriteRule ^blog(.*)$ https://example.com$1 [R=301,L]. This directive will automatically redirect any requests to /blog and its subdirectories to https://example.com.
-     <br/> ANSWER 8:
+     <br/> ANSWER 8:Hi. To prevent search engines from indexing your website you can follow these steps.
+Robots.txt File: Generate a robots.txt file and store it in your website main directory. Within this file you can outline which sections of your site should be excluded from search engine indexing. For instance to block all search engine crawlers from indexing your entire site you can incorporate the following instruction.
+User-agent: * Disallow: /
      <br/> ANSWER 9:
      <br/> ANSWER 10:
      </p>
