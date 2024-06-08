@@ -9,24 +9,7 @@ export default function Home() {
           Hello from Yaser!
           <code className="font-mono font-bold"></code>
         </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
-          <a
-            className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
+
       </div>
 
       <div>
@@ -90,7 +73,7 @@ User-agent: * Disallow: /
     <p>
     <br/> ANSWER 10:This is my first time performing this exercise but it would help if the time limit is longer since some applicants are not yet familiar with the Vercel application.
     </p>
-    
+
      </p>
      </div>
     </main>
