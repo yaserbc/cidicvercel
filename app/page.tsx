@@ -56,10 +56,10 @@ export default function Home() {
     Because I was new I was not familiar with some hiccups that may happen.As I was running the script from the UI the page just froze up and went on a blank screen. I was not sure if the script ran successfully and I could not rerun it as it would mess up the system. Then I thought of checking the localhost logs. From there
       I was able to see that the script was still running and I just needed to monitor it from the logs instead.
 
-     <br/> ANSWER 4:
+    <br/> ANSWER 4:Based on what I understand choose Edge Functions for lightweight tasks that need to run close to the user. Serverless Functions is for more complex backend logic, and Edge Middleware for enhancing performance and security.
      <br/> ANSWER 5:
      <br/> ANSWER 6:
-     <br/> ANSWER 7:
+     <br/> ANSWER 7:Hi. If you are utilizing a web server such as Apache or Nginx you can accomplish redirects by integrating a redirect directive into the configuration file. For instance within Apache .htaccess file you can implement the following rule. ewriteEngine On RewriteRule ^blog(.*)$ https://example.com$1 [R=301,L]. This directive will automatically redirect any requests to /blog and its subdirectories to https://example.com.
      <br/> ANSWER 8:
      <br/> ANSWER 9:
      <br/> ANSWER 10:
