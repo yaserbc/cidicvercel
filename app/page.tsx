@@ -32,9 +32,18 @@ export default function Home() {
       <div>
        <p>
      <br/> ANSWER 1:
-     <br/> ANSWER 1:
-     <br/> ANSWER 1:
-     <br/> ANSWER 1:
+     <br/> 5 Most favourite support task:
+     <br/> 1.Work with engineering teams during incidents and provide updates to internal and external stakeholders
+     <p>
+      <br/> 2.Work with 3rd party partners to track down a tricky situation for a joint customer
+      <br/> 3.Analyze hundreds of support tickets to spot trends the product team can use
+      <br/> 4. Identify, file (and, where possible, resolve) bugs in private and public Vercel Next.js repos on GitHub
+      <br/> 5.Work with people to figure out if Vercel is suitable for their use case
+      </p>
+      
+     <br/> ANSWER 2:
+     <br/> ANSWER 3:
+     <br/> ANSWER 4:
      </p>
      </div>
     </main>
