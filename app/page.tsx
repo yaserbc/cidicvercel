@@ -52,9 +52,9 @@ export default function Home() {
 
       <br/> ANSWER 2: What I wanted to learn or do more of at work is to get to know my colleagues better. I wanted to build relationship
       to as many colleagues as I could because I know that it will help me with my work.
-      <br/> ANSWER 3: I was running a change which was handed over from a different region. The case is a very long pending case..
-    Because I was new, I wasn't familiar with some hiccups that may happen.
-      So, as I was running the script from the UI, the page just froze up and went on a blank screen.
+      <br/> ANSWER 3: I was running a change which was handed over from a different region. The case is a very long pending case.
+    Because I was new I was not familiar with some hiccups that may happen.
+      So as I was running the script from the UI the page just froze up and went on a blank screen.
 
      <br/> ANSWER 4:
      <br/> ANSWER 5:
